@@ -21,11 +21,11 @@ Type 2 diabetic population = 0.084×0.90=0.0756billion (75.6 million peopl
 
 Affordability and access:
 Assume 50% of the population has access to and can afford modern medications.
-Accessible market = 0.0756×0.50=0.0378billion (37.8 million people).
+- Accessible market = 0.0756×0.50=0.0378billion (37.8 million people).
 
 Competitor penetration:
 Assume competitors already capture 50% of the accessible market.
-Potential market = 0.0378×0.50=0.0189billion (18.9 million people).
+- Potential market = 0.0378×0.50=0.0189billion (18.9 million people).
 
 Step 4: Pill consumption rate
 Assume each patient consumes 1 pill per day (standard for diabetes treatment).
